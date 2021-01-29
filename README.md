@@ -1,0 +1,2 @@
+# design_pattern_for_python
+pythonででデザインパターンを実装する用
